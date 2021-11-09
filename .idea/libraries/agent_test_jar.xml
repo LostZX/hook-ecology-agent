@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="agent_test_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/agent-test/out/artifacts/agent_test_jar/agent-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/agent-test/out/artifacts/agent_test_jar/agent-premain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

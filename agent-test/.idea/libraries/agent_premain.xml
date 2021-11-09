@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="agent-premain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../agent-premain/out/artifacts/agent_premain/agent-premain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
